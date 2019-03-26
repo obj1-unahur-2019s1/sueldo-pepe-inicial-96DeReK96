@@ -1,0 +1,2 @@
+def SueldoPepe(neto, bono, presentismo, bono, resultados)
+    neto= 15000
